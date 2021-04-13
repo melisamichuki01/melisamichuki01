@@ -5,7 +5,7 @@
 </h1>
 
 <h1 align='center'>
-  Data Scientist and Computer Science student at UoN.
+  Data Scientist||Computer Science student at UoN.
 </h1>
 
 <p align='center'>
