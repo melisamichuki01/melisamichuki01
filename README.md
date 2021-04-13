@@ -19,11 +19,13 @@
   <a href="https://open.spotify.com/user/313hotyz2cj6zp4y55f35pu3upfq?si=j9mWjvHlROCwqdNhGTj1Bw/">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>     
   </a>&nbsp;&nbsp;
+  <a href="https://mailhide.io/e/L5WX91q5/">
+    <img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white"/>     
+  </a>&nbsp;&nbsp;
   <a href="https://www.github.com/melisamichuki01/">
     <img src="https://img.shields.io/github/followers/melisamichuki01?style=social"/>     
   </a>&nbsp;&nbsp;
 </p>
-
 
 <p align='center'>
   
@@ -40,10 +42,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melisamichuki01&theme=blue-green" alt="Melisa's GitHub Stats" />
 </a>
 
-
-<p align='center'>
-  📫 How to reach me: <a href='mailto:michuki075@gmail.com'>michuki075@gmail.com</a>
-</p>
 
 <details>
   <summary>📃 My Resume</summary>
