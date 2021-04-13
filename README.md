@@ -1,7 +1,7 @@
 ![Picture1](https://user-images.githubusercontent.com/61727167/114374135-fd751400-9b8b-11eb-9587-746bb40821c7.jpg)
 
 <h1 align='center'>
-  Hi there 👋 I'm Melisa Michuki.
+  Hi there <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" width="30px"> I'm Melisa Michuki.
 </h1>
 
 <h1 align='center'>
@@ -28,11 +28,13 @@
   
   ⚡ My all day,every day quote is; Do the best you can until you know better. Then when you know better, do better by Maya  Angelou and I believe in celebrating all wins,big or small.
 
-</p>
+<a href="https://github.com/melisamichuki01/melisamichuki01">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=melisamichuki01&show_icons=true&count_private=true&theme=dark" />
+</a>
+<a href="https://github.com/melisamichuki01/melisamichuki01">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melisamichuki01&theme=blue-green" alt="Melisa's GitHub Stats" />
+</a>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=melisamichuki01&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:michuki075@gmail.com'>michuki075@gmail.com</a>
@@ -68,4 +70,7 @@ src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+
 
