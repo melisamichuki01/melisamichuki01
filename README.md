@@ -54,6 +54,8 @@ src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right"
 src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
+<img align="right"
+src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" />
 
 
 - 📖 **BSc.Computer Science**\
