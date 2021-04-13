@@ -8,15 +8,20 @@
   Data Scientist and Computer Science student at UoN.
 </h1>
 
-<p align='center'> 
+<p align='center'>
+  </a>&nbsp;&nbsp;
+  <a href=>
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/melisamichuki/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />     
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/313hotyz2cj6zp4y55f35pu3upfq?si=j9mWjvHlROCwqdNhGTj1Bw/">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>     
   </a>&nbsp;&nbsp;
   <a href="https://www.github.com/melisamichuki01/">
     <img src="https://img.shields.io/github/followers/melisamichuki01?style=social"/>     
   </a>&nbsp;&nbsp;
-  
 </p>
 
 
@@ -49,7 +54,7 @@
 - 📖 **Data Science**\
 📍 **Moringa School** - Nairobi, Kenya
 <img align="right"
-src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
+src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 <img align="right" 
 src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right"
@@ -60,6 +65,10 @@ src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=pyth
 
 - 📖 **BSc.Computer Science**\
 📍 **University of Nairobi** - Nairobi, Kenya
+<img align="right"
+src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img align="right"
+src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
 </details>
 
