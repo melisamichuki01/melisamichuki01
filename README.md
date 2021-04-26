@@ -10,9 +10,6 @@
 
 <p align='center'>
   </a>&nbsp;&nbsp;
-  <a href=>
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/melisamichuki/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -33,7 +30,7 @@
   
   😄 Pronouns: She/her
   
-  ⚡ My all day,every day quote is; Do the best you can until you know better. Then when you know better, do better by Maya  Angelou and I believe in celebrating all wins,big or small.
+  ⚡ My all day,every day quote is; Do the best you can until you know better. Then when you know better, do better by Maya  Angelou.
 
 <a href="https://github.com/melisamichuki01/melisamichuki01">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=melisamichuki01&show_icons=true&count_private=true&theme=dark" />
