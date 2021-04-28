@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/melisamichuki/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/313hotyz2cj6zp4y55f35pu3upfq?si=j9mWjvHlROCwqdNhGTj1Bw/">
+  <a href="https://open.spotify.com/user/5ugoa7to1isrp099b0lehq4s5?si=42efe51be07a4571">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>     
   </a>&nbsp;&nbsp;
   <a href="https://mailhide.io/e/L5WX91q5/">
