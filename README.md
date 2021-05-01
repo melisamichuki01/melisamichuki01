@@ -19,6 +19,9 @@
   <a href="https://mailhide.io/e/L5WX91q5/">
     <img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white"/>     
   </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/MelisaMichuki">
+    <img src="https://img.shields.io/twitter/follow/MelisaMichuki?style=social" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.github.com/melisamichuki01/">
     <img src="https://img.shields.io/github/followers/melisamichuki01?style=social"/>     
   </a>&nbsp;&nbsp;
