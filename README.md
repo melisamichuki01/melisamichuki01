@@ -7,7 +7,6 @@ Data scientist ||CS student @ UoN |Co-lead @codebar Nairobi Chapter||Wentor Amba
 * 🌍  I'm based in Nairobi,Kenya
 * 🖥️  See my portfolio at [https://github.com/melisamichuki01](http://github.com/melisamichuki01)
 * ✉️  You can contact me at [michuki075@gmail.com](mailto:michuki075@gmail.com)
-* 🚀  I'm currently working on [Therapy Sessions Appointment System](http://github.com/melisamichuki01/2nd-year-app)
 * 🧠  I'm learning Web Development
 
 <a href="https://www.twitter.com/melisamichuki" target="_blank" rel="noreferrer"><img
